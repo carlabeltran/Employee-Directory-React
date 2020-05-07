@@ -6,11 +6,11 @@ Employee Directory quick access react application.
 
 ![Employee Directory][ Employee Directory App]
 
-[Employee Directory App]: https://github.com/carlabeltran/Employee-Directory-React/blob/master/public/EmployeeDirectoryApp.png?raw=true "Employee Directory App"
+[Employee Directory App]: https://github.com/carlabeltran/Employee-Directory-React/blob/master/Images/EmployeeDirectoryApp.png?raw=true "Employee Directory App"
 
 ![Employee Directory Tree][ Employee Directory Tree]
 
-[Employee Directory Tree]: https://github.com/carlabeltran/Employee-Directory-React/blob/master/public/EmployeeDirectoryTree.png?raw=true "Employee Directory Tree"
+[Employee Directory Tree]: https://github.com/carlabeltran/Employee-Directory-React/blob/master/Images/EmployeeDirectoryTree.png?raw=true "Employee Directory Tree"
 
 ---
 
