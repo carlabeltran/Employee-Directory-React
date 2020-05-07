@@ -12,6 +12,12 @@ Employee Directory quick access react application.
 
 [Employee Directory Tree]: https://github.com/carlabeltran/Employee-Directory-React/blob/master/Images/EmployeeDirectoryTree.png?raw=true "Employee Directory Tree"
 
+
+![Home Page Components Visual][ Home Page]
+
+[Home Page]: https://github.com/carlabeltran/Employee-Directory-React/blob/master/Images/HomePage.png?raw=true "Home Page Components Visual"
+
+
 ---
 
 ## 📕 User Story
