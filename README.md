@@ -2,7 +2,7 @@
 
 ## Welcome! 👋
 
-Employee quick access react application.
+Employee Directory quick access react application.
 
 ![Employee Directory][ Employee Directory App]
 
